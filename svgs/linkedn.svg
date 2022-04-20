@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.000115384615 0.379939668 4.85973077 0.379939668 4.85973077 21.1537217 0.000115384615 21.1537217"></polygon>
+        <polygon id="path-3" points="0.04452 0.1652 13.7592 0.1652 13.7592 14 0.04452 14"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-994.000000, -202.000000)">
+            <g id="Group-4">
+                <g transform="translate(944.000000, 202.000000)">
+                    <g id="Group-13" transform="translate(50.000000, 0.000000)">
+                        <rect id="Rectangle-5-Copy-2" fill="#39AAE0" x="0" y="0" width="42" height="42" rx="3"></rect>
+                        <g id="Page-1" transform="translate(11.000000, 10.000000)">
+                            <g id="Group-3">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M2.4155,5.224046 C3.92203846,5.224046 4.85973077,4.14727376 4.85973077,2.80130845 C4.83126923,1.42672323 3.92203846,0.379815234 2.44396154,0.379815234 C0.965884615,0.379815234 0.000115384615,1.42672323 0.000115384615,2.80130845 C0.000115384615,4.14727376 0.937423077,5.224046 2.38742308,5.224046 L2.4155,5.224046 Z M0.2555,21.1537217 L4.5755,21.1537217 L4.5755,7.13701735 L0.2555,7.13701735 L0.2555,21.1537217 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                            </g>
+                            <g id="Group-6" transform="translate(7.000000, 7.000000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-5"></g>
+                                <path d="M0.04452,14 L4.53732,14 L4.53732,6.4512 C4.53732,6.0472 4.56692,5.644 4.68572,5.3552 C5.01012,4.548 5.74972,3.7124 6.99052,3.7124 C8.61692,3.7124 9.26692,4.952 9.26692,6.7688 L9.26692,14 L13.75932,14 L13.75932,6.2492 C13.75932,2.0976 11.54292,0.1652 8.58692,0.1652 C6.16292,0.1652 5.09892,1.5208 4.50772,2.4428 L4.53732,2.4428 L4.53732,0.4828 L0.04452,0.4828 C0.10372,1.7512 0.04452,14 0.04452,14" id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
